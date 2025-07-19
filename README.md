@@ -49,6 +49,3 @@ Participei de diversos projetos, como POCs e soluções internas voltadas a perf
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroaugusto-dev/)
 - ✉️ pe.augusto0700@gmail.com
 
-<p align="center">
-  Obrigado por visitar! ✨
-</p>

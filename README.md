@@ -21,16 +21,16 @@ Participei de diversos projetos, como POCs e soluções internas voltadas a perf
 ### 🧰 Linguagens e Tecnologias
 
 <p align="center">
-  <i class="devicon-csharp-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-dotnetcore-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-postgresql-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-react-original colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-typescript-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-javascript-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-git-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-googlecloud-plain-wordmark" style="font-size: 40px; margin: 10px;"></i>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin: 10px;" />
 </p>
+
 
 ### 🧰 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeedroAugusto&layout=compact&theme=transparent&hide_border=true&custom_title=Tecnologias)
